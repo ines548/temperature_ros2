@@ -1,0 +1,2 @@
+[console_scripts]
+temperature_node = temperature_publisher.temperature_node:main

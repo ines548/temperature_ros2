@@ -1,0 +1,11 @@
+[1.422s] Invoking command in '/home/ines/ros2_ws/src/communication_robot': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ines/ros2_ws/build/communication_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ines/ros2_ws/install/communication_robot/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/communication_robot build --build-base /home/ines/ros2_ws/build/communication_robot/build install --record /home/ines/ros2_ws/build/communication_robot/install.log --single-version-externally-managed
+[1.707s] running egg_info
+[1.707s] creating ../../build/communication_robot/mon_package.egg-info
+[1.728s] writing ../../build/communication_robot/mon_package.egg-info/PKG-INFO
+[1.728s] writing dependency_links to ../../build/communication_robot/mon_package.egg-info/dependency_links.txt
+[1.728s] writing entry points to ../../build/communication_robot/mon_package.egg-info/entry_points.txt
+[1.729s] writing requirements to ../../build/communication_robot/mon_package.egg-info/requires.txt
+[1.729s] writing top-level names to ../../build/communication_robot/mon_package.egg-info/top_level.txt
+[1.729s] writing manifest file '../../build/communication_robot/mon_package.egg-info/SOURCES.txt'
+[1.750s] error: package directory 'mon_package' does not exist
+[1.777s] Invoked command in '/home/ines/ros2_ws/src/communication_robot' returned '1': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ines/ros2_ws/build/communication_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ines/ros2_ws/install/communication_robot/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/communication_robot build --build-base /home/ines/ros2_ws/build/communication_robot/build install --record /home/ines/ros2_ws/build/communication_robot/install.log --single-version-externally-managed

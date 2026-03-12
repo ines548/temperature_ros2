@@ -1,0 +1,3 @@
+[console_scripts]
+hello_node = mon_package.hello_node:main
+temperature_node = mon_package.temp_node:main

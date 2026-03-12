@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: temperature-publisher
+Version: 0.0.0
+Summary: Temperature publisher node
+Maintainer: ines
+Maintainer-email: ines@example.com
+License: Apache License 2.0

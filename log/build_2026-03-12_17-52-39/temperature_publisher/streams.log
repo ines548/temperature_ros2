@@ -1,0 +1,30 @@
+[1.409s] Invoking command in '/home/ines/ros2_ws/src/temperature_publisher': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ines/ros2_ws/build/temperature_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ines/ros2_ws/install/temperature_publisher/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/temperature_publisher build --build-base /home/ines/ros2_ws/build/temperature_publisher/build install --record /home/ines/ros2_ws/build/temperature_publisher/install.log --single-version-externally-managed
+[1.686s] running egg_info
+[1.686s] creating ../../build/temperature_publisher/temperature_publisher.egg-info
+[1.707s] writing ../../build/temperature_publisher/temperature_publisher.egg-info/PKG-INFO
+[1.707s] writing dependency_links to ../../build/temperature_publisher/temperature_publisher.egg-info/dependency_links.txt
+[1.707s] writing entry points to ../../build/temperature_publisher/temperature_publisher.egg-info/entry_points.txt
+[1.708s] writing requirements to ../../build/temperature_publisher/temperature_publisher.egg-info/requires.txt
+[1.708s] writing top-level names to ../../build/temperature_publisher/temperature_publisher.egg-info/top_level.txt
+[1.708s] writing manifest file '../../build/temperature_publisher/temperature_publisher.egg-info/SOURCES.txt'
+[1.749s] reading manifest file '../../build/temperature_publisher/temperature_publisher.egg-info/SOURCES.txt'
+[1.750s] writing manifest file '../../build/temperature_publisher/temperature_publisher.egg-info/SOURCES.txt'
+[1.750s] running build
+[1.750s] running build_py
+[1.750s] creating /home/ines/ros2_ws/build/temperature_publisher/build
+[1.750s] creating /home/ines/ros2_ws/build/temperature_publisher/build/lib
+[1.750s] creating /home/ines/ros2_ws/build/temperature_publisher/build/lib/temperature_publisher
+[1.750s] copying temperature_publisher/temperature_node.py -> /home/ines/ros2_ws/build/temperature_publisher/build/lib/temperature_publisher
+[1.750s] copying temperature_publisher/__init__.py -> /home/ines/ros2_ws/build/temperature_publisher/build/lib/temperature_publisher
+[1.750s] running install
+[1.758s] running install_lib
+[1.780s] creating /home/ines/ros2_ws/install/temperature_publisher/lib/python3.12/site-packages/temperature_publisher
+[1.781s] copying /home/ines/ros2_ws/build/temperature_publisher/build/lib/temperature_publisher/temperature_node.py -> /home/ines/ros2_ws/install/temperature_publisher/lib/python3.12/site-packages/temperature_publisher
+[1.781s] copying /home/ines/ros2_ws/build/temperature_publisher/build/lib/temperature_publisher/__init__.py -> /home/ines/ros2_ws/install/temperature_publisher/lib/python3.12/site-packages/temperature_publisher
+[1.781s] byte-compiling /home/ines/ros2_ws/install/temperature_publisher/lib/python3.12/site-packages/temperature_publisher/temperature_node.py to temperature_node.cpython-312.pyc
+[1.782s] byte-compiling /home/ines/ros2_ws/install/temperature_publisher/lib/python3.12/site-packages/temperature_publisher/__init__.py to __init__.cpython-312.pyc
+[1.782s] running install_egg_info
+[1.805s] Copying ../../build/temperature_publisher/temperature_publisher.egg-info to /home/ines/ros2_ws/install/temperature_publisher/lib/python3.12/site-packages/temperature_publisher-0.0.0-py3.12.egg-info
+[1.806s] running install_scripts
+[1.951s] Installing temperature_node script to /home/ines/ros2_ws/install/temperature_publisher/lib/temperature_publisher
+[1.951s] writing list of installed files to '/home/ines/ros2_ws/build/temperature_publisher/install.log'

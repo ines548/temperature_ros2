@@ -1,0 +1,14 @@
+setup.cfg
+setup.py
+../../build/temperature_publisher/temperature_publisher.egg-info/PKG-INFO
+../../build/temperature_publisher/temperature_publisher.egg-info/SOURCES.txt
+../../build/temperature_publisher/temperature_publisher.egg-info/dependency_links.txt
+../../build/temperature_publisher/temperature_publisher.egg-info/entry_points.txt
+../../build/temperature_publisher/temperature_publisher.egg-info/requires.txt
+../../build/temperature_publisher/temperature_publisher.egg-info/top_level.txt
+../../build/temperature_publisher/temperature_publisher.egg-info/zip-safe
+temperature_publisher/__init__.py
+temperature_publisher/temperature_node.py
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
