@@ -9,6 +9,7 @@ setup.py
 ../../build/my_first_package/my_first_package.egg-info/top_level.txt
 ../../build/my_first_package/my_first_package.egg-info/zip-safe
 my_first_package/__init__.py
+my_first_package/calcule_service.py
 my_first_package/talker.py
 resource/my_first_package
 test/test_copyright.py
